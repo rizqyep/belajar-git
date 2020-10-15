@@ -1,1 +1,8 @@
 Tujuan rep belajar programming
+
+
+Target skill yang ingin dikuasai : 
+
+- Algoritma
+- Problem Solving
+- C 
